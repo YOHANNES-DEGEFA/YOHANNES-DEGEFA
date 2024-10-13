@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yohannes</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img align="right" src="https://www.pinterest.com/pin/pinterest--311381761734186207/]" alt="Pinterest GIF" width="150"/>
-
-- 🔭 I’m currently working on [AfrInterview](https://github.com/YOHANNES-DEGEFA/AfrInterview)
-
+<!-- <img align="right" src="https://www.pinterest.com/pin/pinterest--311381761734186207/]" alt="Pinterest GIF" width="150"/>
+ - 🔭 I’m currently working on [AfrInterview](https://github.com/YOHANNES-DEGEFA/AfrInterview)
+--> 
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React.js, Next.js, and Algorithm Design.**
