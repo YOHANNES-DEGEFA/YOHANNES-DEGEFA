@@ -1,95 +1,104 @@
-<h1 align="center">Hi 👋, I'm Yohannes</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+# 🔥 Yohannes — building meaningful software, thoughtfully
 
-<!-- <img align="right" src="https://www.pinterest.com/pin/pinterest--311381761734186207/]" alt="Pinterest GIF" width="150"/>
- - 🔭 I’m currently working on [AfrInterview](https://github.com/YOHANNES-DEGEFA/AfrInterview)
---> 
+<table width="100%" style="border: none;">
+<tr>
+<td width="60%" align="left">
 
-- 💬 Ask me about **React.js, Next.js, Express.js, Go, and Algorithm Design.**
+> I like building products that feel fast, intentional, and calm.  
+> I fix the ones that should be better.  
+> I care about architecture, performance, developer experience, and thoughtful UX.  
+> I build. teach. learn. improve. repeat.
 
-- 📫 How to reach me **yohannes.degefa.deressa@gmail.com**
+</td>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yohannes-degefa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-degefa/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/resilientwarrior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/resilientwarrior/" height="30" width="40" /></a>
+<td width="40%" align="center">
+  
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="95%" 
+    style="border-radius: 18px; box-shadow: 0px 0px 22px rgba(0,0,0,0.25);" 
+  />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 What I do
+- turn fragile frontends into **smooth, predictable, stable experiences**
+- design **robust UI architecture** and simplify complex state systems
+- build **end-to-end products** — frontend, backend, performance, infra
+- mentor & teach **data structures, algorithms & engineering thinking**
+- proficient with **AI developer tools & agents**
+  *(Cursor, Antigravity, Claude Tools, GitHub Copilot, etc.)*
+
+---
+
+## 🏗️ Work I’m proud of
+
+### 🍽️ RateEat — Food Enthusiast Platform
+A social food platform designed for **discovering, reviewing, and engaging** with food experiences.  
+I strengthened the platform’s **backend reliability, CI/CD maturity, and performance**, ensuring smooth functionality even at scale.
+
+**Role:** Backend / Platform Engineer  
+**Impact:** Stability · Fewer Errors · Faster Deploys · Reliability  
+**Stack:** Node.js · PostgreSQL · Redis · Docker
+
+---
+
+### 🎓 Prepx — EdTech Interview Preparation Platform
+Built to help learners prepare **calmly, confidently, and effectively**.  
+I helped craft a **clean learning experience**, scalable frontend structure, and stronger engineering discipline with testing.
+
+**Role:** Frontend / Product Engineer  
+**Impact:** Smooth UX · Architecture Stability · Maintainability  
+**Stack:** React · TypeScript · Testing
+
+---
+
+### 💰 Malama — Financial Platform
+A financial platform focused on **trust, predictability, and reliability**.  
+I worked on **strong UI architecture, stable state management, and better performance**, making financial interactions calm and dependable.
+
+**Role:** Frontend Engineer  
+**Impact:** Performance · Reliability · Predictable Flow  
+**Focus:** Calm UX · Product Confidence
+
+---
+
+## 🛠️ My Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,redis,python,go,cpp,docker,git,linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
-  </a
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+---
 
+## 🧠 A bit about me
+- I enjoy **hard engineering problems** — performance, concurrency, system thinking
+- I value **clarity, kindness, craftsmanship**
+- I like building platforms that genuinely help people
+- I believe good software should feel human 😊
+
+---
+
+## 📊 A glimpse of activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOHANNES-DEGEFA&theme=tokyonight" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes-degefa&" alt="yohannes-degefa" /></p>
+---
+
+## 🌍 Let’s connect
+<p align="center">
+  <a href="mailto:yohde44@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge"></a>
+  <a href="https://et.linkedin.com/in/yohannes-degefa-b72777289"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge"></a>
+  <a href="https://leetcode.com/u/ResilientWarrior/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge"></a>
+  <a href="https://yohannes-degefa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>I build calmly. I ship thoughtfully. I make software better.</i>
+</p>
