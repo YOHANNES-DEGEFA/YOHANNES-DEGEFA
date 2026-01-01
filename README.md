@@ -80,14 +80,9 @@ I worked on **strong UI architecture, stable state management, and better perfor
 - I like building platforms that genuinely help people
 - I believe good software should feel human 😊
 
----
 
-## 📊 A glimpse of activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOHANNES-DEGEFA&theme=tokyonight" />
-</p>
 
----
+
 
 ## 🌍 Let’s connect
 <p align="center">
