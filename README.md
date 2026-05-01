@@ -13,17 +13,17 @@
 
 <br/><br/>
 
-<!-- Dynamic Stats Row -->
+<!-- GitHub Stats Cards -->
 <table>
 <tr>
 <td align="center">
 <a href="https://github.com/yohannesdegefa">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yohannesdegefa&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&border_color=30363d" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yohannesdegefa&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="GitHub Stats" />
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/yohannesdegefa">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=yohannesdegefa&theme=radical&hide_border=false&background=0D1117&stroke=58A6FF&ring=58A6FF" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yohannesdegefa&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&card_width=450px" alt="Top Languages" />
 </a>
 </td>
 </tr>
@@ -268,7 +268,7 @@ Expert at **auditing, proofreading, and validating edge cases**. I fix messy cod
 ### Complete LeetCode Stats with Heatmap
 
 <a href="https://leetcode.com/u/ResilientWarrior/">
-  <img src="https://leetcard.jacoblin.cool/ResilientWarrior?font=baloo&extension=null&show_rank=false&border=0&ext=heatmap&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ResilientWarrior?font=baloo&extension=null&show_rank=false&border=0&ext=heatmap&theme=dark&start_date=2024-01-01&end_date=2025-01-31" alt="LeetCode Stats" />
 </a>
 
 </div>
