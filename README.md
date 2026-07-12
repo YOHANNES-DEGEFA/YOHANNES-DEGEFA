@@ -18,7 +18,6 @@ $ whoami
 <br/>
 
 ## `> about`
-![Uploading image.png…]()
 
 ```
 I build production systems and rescue fragile codebases.
@@ -98,7 +97,7 @@ Daily AI-assisted development in Cursor — tracked, not hidden. This is what "A
 
 | Metric | Value |
 |---|---|
-| AI line edits | **1,601,529** |
+| AI line edits | **1,740,574** |
 | Most active month | **June** |
 | Most active day | **Jun 17, 2026** |
 | Longest streak | **34 days** |
@@ -106,7 +105,7 @@ Daily AI-assisted development in Cursor — tracked, not hidden. This is what "A
 
 <div align="center">
 
-<img src="./assets/cursor-stats.png" width="700" alt="Cursor AI usage heatmap" />
+<img width="2122" height="850" alt="image" src="https://github.com/user-attachments/assets/a71b0d06-a2fc-44a8-a7d5-38bac06651f3" />
 
 </div>
 
