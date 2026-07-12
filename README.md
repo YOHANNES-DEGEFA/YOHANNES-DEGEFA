@@ -86,6 +86,7 @@ AI-assisted talent-matching platform. Built a bank dashboard on RTK Query, impro
 <a href="https://leetcode.com/u/ResilientWarrior/">
   <img src="https://leetcard.jacoblin.cool/ResilientWarrior?font=baloo&extension=null&show_rank=false&border=0&theme=dark" alt="LeetCode Stats" />
 </a>
+<img width="1690" height="402" alt="image" src="https://github.com/user-attachments/assets/869ad742-f5c0-4a78-9765-ff0634e1ab77" />
 
 </div>
 
