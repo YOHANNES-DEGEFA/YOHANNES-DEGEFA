@@ -80,10 +80,6 @@ AI-assisted talent-matching platform. Built a bank dashboard on RTK Query, impro
 ## `> stats`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yohannesdegefa&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yohannesdegefa&layout=compact&locale=en&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
 <br/>
 
 <a href="https://leetcode.com/u/ResilientWarrior/">
