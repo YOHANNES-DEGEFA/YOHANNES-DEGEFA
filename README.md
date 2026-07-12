@@ -8,7 +8,7 @@ $ whoami
 
 **Full-Stack Engineer · AI-Integration Specialist**
 
-`available for opportunities` · `7+ yrs experience` · `25+ shipped projects`
+`available for opportunities` · `5+ yrs experience` · `25+ shipped projects`
 
 [Portfolio](https://yohannes-degefa-portfolio.vercel.app/) · [Email](mailto:yohde44@gmail.com) · [LinkedIn](https://linkedin.com/in/yohannes-degefa-b72777289) · [GitHub](https://github.com/yohannesdegefa)
 
