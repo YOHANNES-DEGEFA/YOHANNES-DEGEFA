@@ -39,7 +39,7 @@ Languages     TypeScript · JavaScript · Python · Go · Java
 Frontend      React · Next.js · React Native · Tailwind
 Backend       Node.js · Express · NestJS
 Data          PostgreSQL · Redis · MongoDB
-AI / Auto     OpenAI · Claude · Cursor · n8n · Zapier · Make
+AI / Auto     OpenAI · Claude · Cursor · n8n
 DevOps        Docker · Git · Linux · Figma
 ```
 
