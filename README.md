@@ -110,8 +110,6 @@ Daily AI-assisted development in Cursor — tracked, not hidden. This is what "A
 
 </div>
 
-> To make this image render on GitHub, commit `assets/cursor-stats.png` (included alongside this README) to your repo at the same relative path.
-
 <br/>
 
 ## `> contact`
