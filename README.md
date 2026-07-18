@@ -117,7 +117,7 @@ Daily AI-assisted development in Cursor — tracked, not hidden. This is what "A
 ```
 $ open to     freelance · consulting · full-time (remote)
 $ excited by  AI-augmented products, legacy modernization
-$ reach me    yohde44@gmail.com
+$ reach me    yohdeforemost@gmail.com
 ```
 
 <div align="center">
